@@ -1,2 +1,2 @@
 # boris
-A Black-Oil ReservoIr Simulator.
+A Black-Oil Reservoir Simulator.
